@@ -24,3 +24,26 @@ Workflow for turning in assignments:
 5. When the assignment is completed, copy the link to the repo and submit it for the assignment submission
 
 > **WARNING:** Please don't forget to make your repo private. If it is not private I won't grade it. We'll talk about public repos and open source projects for the final project.
+
+## Rubric ##
+
+
+
+* Program Correctness - 50%
+  * Program always works correctly according the specifications
+  * All files needed for running the code are in the git repo
+* Readability - 25%
+  * Well organized code paths
+  *  Consistent formatting
+  * Descriptive naming (variables, methods, classes, etc)
+  * No unnecessary commenting that clutters the code (keep comments to public facing pieces of code, if you are having to comment something inside a code block... it's too complicated or you naming isn't descriptive enough)
+* Documentation - 15%
+  * Public methods are commented well
+  * Classes and custom types are commented well
+* Code Elegance - 10%
+  * Minimal to no hardcoding
+  * Loops are used responsibly (don't nest too much)
+  * If statements are clean
+  * switches are used sparingly
+  * Nothing too "clever"
+  * etc.
