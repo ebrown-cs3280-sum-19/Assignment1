@@ -37,13 +37,13 @@ Workflow for turning in assignments:
   *  Consistent formatting
   * Descriptive naming (variables, methods, classes, etc)
   * No unnecessary commenting that clutters the code (keep comments to public facing pieces of code, if you are having to comment something inside a code block... it's too complicated or you naming isn't descriptive enough)
-* Documentation - 15%
-  * Public methods are commented well
-  * Classes and custom types are commented well
-* Code Elegance - 10%
+* Code Elegance - 15%
   * Minimal to no hardcoding
   * Loops are used responsibly (don't nest too much)
   * If statements are clean
   * switches are used sparingly
   * Nothing too "clever"
   * etc.
+* Documentation - 10%
+  * Public methods are commented well
+  * Classes and custom types are commented well
