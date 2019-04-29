@@ -40,8 +40,8 @@ Workflow for turning in assignments:
 * Code Elegance - 15%
   * Minimal to no hardcoding
   * Loops are used responsibly (don't nest too much)
-  * If statements are clean
-  * switches are used sparingly
+  * If statements are clean (no pyramids of doom)
+  * switches are used responsibly
   * Nothing too "clever"
   * etc.
 * Documentation - 10%
