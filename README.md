@@ -6,7 +6,8 @@ CS 3280 assignment requirement files. I will be adding instructions and any nece
 
 0. [Git Activity](GitActivity.md)
 1. [Assignment 1 Instructions](Assignment1.md)
-2. TBA
+2. [Assignment 2 Instructions](Assignment2.md)
+3. TBA
 
 ## Turning In Assignments ##
 
