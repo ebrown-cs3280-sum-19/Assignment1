@@ -8,4 +8,3 @@ At any time after the counts have been submitted the “Display Scores” button
 At any time, the “Reset Scores” button may be clicked, which will reset the program to its original state of entering the counts.
 
 ![Assignment 3 Screenshot](images/assignment3.png)
-s

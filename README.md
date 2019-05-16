@@ -8,6 +8,10 @@ CS 3280 assignment requirement files. I will be adding instructions and any nece
 1. [Assignment 1 Instructions](Assignment1.md)
 2. [Assignment 2 Instructions](Assignment2.md)
 3. [Assignment 3 Instructions](Assignment3.md)
+4. [Assignment 4 Instructions](Assignment4.md)
+5. [Assignment 5 Instructions](Assignment5.md)
+6. [Assignment 6 Instructions](Assignment6.md)
+7. [Final Project Instructions](FinalProject.md)
 
 ## Turning In Assignments ##
 
