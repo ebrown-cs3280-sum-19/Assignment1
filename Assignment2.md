@@ -11,3 +11,5 @@ Create a Windows based program that allows the user to guess what the value of a
 3. Select the image, then in the properties window for  "Build Action", select  "Resource".
 4. Set in your code:
 MyImage.Source = new BitmapImage(new Uri(@ "Images/die1.gif", UriKind.Relative));
+
+The image files for the dice faces are here [https://github.com/ebrown-cs3280-sum-19/Chapter5Examples/tree/master/Chapter%205%20and%206%20Example/Resources](https://github.com/ebrown-cs3280-sum-19/Chapter5Examples/tree/master/Chapter%205%20and%206%20Example/Resources)
