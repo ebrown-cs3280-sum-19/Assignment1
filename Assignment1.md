@@ -10,6 +10,8 @@ Create a Windows based program that allows the user to do the following:
 
 Your form should have 3 textboxes that the user types a message into, and buttons next to each textbox that when clicked will display a different type of Message Box.  Next to each button there should be a label describing what will happen when the button is clicked.  Each button should display a Message Box that has different MessageBoxButtons on it.  Also, each Message Box should have different MessageBoxIcons on it.  The result of each Message Box should also be displayed on the form.  So, for instance if a Message Box with an “OK” button is displayed, when the “OK” button is clicked, the form should show that the button “OK” was clicked.
 
+![Assignment 1 Screenshot](images/assignment1.png)
+
 ## Second Part of assignment 1 (Program 2) ##
 
 Create a console based program that allows the user to enter two numbers and then prints the results of addition, subtraction, multiplication, division, and the remainder of the two numbers.  Then the program prints whether the first number is less than the second number, then prints whether the first number is greater than the second number, then prints whether the first number equals the second number.  For this assignment, you do not have to validate user input.  For example, if the user enters the letter “A” the program will crash.  In later assignments, you will be required to validate input, but for this assignment you do not.  However, if you want to practice I suggest you first finish the assignment, then go back and try to add in user validation.
@@ -30,3 +32,4 @@ Please enter the second number: 3
 10 is greater than 3
 10 does not equal 3
 ```
+
