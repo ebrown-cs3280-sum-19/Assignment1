@@ -5,6 +5,12 @@ The program will give the user the ability to enter the number of students (max 
 
 At any time after the counts have been submitted the “Display Scores” button may be clicked. This button will display the students, their grades, their average grade, and their letter grade. Use the syllabus for this class to determine the letter grade. Don’t worry too much about if the columns line up perfectly based on how long names are, just get it close. Formatting can be done using tab and new line constants in your string.
 
+Alternatively, you can drop the "Display Scores" button and update the output textbox automatically whenever an assignment score or student name is entered.
+
 At any time, the “Reset Scores” button may be clicked, which will reset the program to its original state of entering the counts.
 
 ![Assignment 3 Screenshot](images/assignment3.png)
+
+![Assignment 3 Screenshot - no display button](images/assignment3_start.png)
+
+![Assignment 3 Screenshot - example output](images/assignment3_use.png)
